@@ -1,0 +1,1 @@
+Beam Sampling for Infinite Hidden Conditional Random Fields. Tested only in MATLAB R2012a
